@@ -11,3 +11,4 @@ conflicto 4
 master 5
 master 6
 otra linea
+esta es una mejora
